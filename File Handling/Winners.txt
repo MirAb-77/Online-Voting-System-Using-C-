@@ -1,0 +1,10 @@
+CANDIDATE CNIC :123
+CANDIDIATE NAME :Ali
+CANDIDATE Age :23
+RESIDENCE :Ahore
+QUALIFICATION :ba
+SEX :MAle
+POLTICAL EXPERIENCE  :3
+PARTYNAME :TI
+VOTES GIVEN :2
+_________________________________________________________________________________________________

@@ -1,0 +1,18 @@
+
+ELECTION TITLE :MLA
+ELECTION STATUS :INACTIVE
+
+CANDIDATE RESULTS:
+________________________________________________________________________________________________
+
+CANDIDATE CNIC : 123
+CANDIDIATE NAME :Ali
+PARTYNAME :TI
+VOTES GIVEN :2
+
+
+CANDIDATE CNIC : 456
+CANDIDIATE NAME :kashif
+PARTYNAME :MLN
+VOTES GIVEN :0
+_________________________________________________________________________________________________
