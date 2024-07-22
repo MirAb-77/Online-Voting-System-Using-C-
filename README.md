@@ -8,10 +8,18 @@ I'm thrilled to share that I've been working on a comprehensive Online Voting Sy
 
 ## Key Features:
 
-#### Multi-Election Support: Create and manage multiple elections with ease.
-#### Candidate Management: Add and track candidates, their details, and their votes.
-#### Voting Mechanism: Allow both administrators and voters to cast their votes securely.
-#### Results Tracking: View and analyze election results dynamically.
+##### Multi-Election Support:
+Create and manage multiple elections with ease.
+
+##### Candidate Management: 
+Add and track candidates, their details, and their votes.
+
+##### Voting Mechanism:
+Allow both administrators and voters to cast their votes securely.
+
+##### Results Tracking:
+View and analyze election results dynamically.
+
 The system incorporates advanced functionalities like real-time vote counting, secure authentication, and detailed reporting.
 
 # Technical Deep Dive
@@ -21,9 +29,16 @@ Today, I want to give you a closer look at the technical aspects of our Online V
 
 ## Tech Highlights:
 
-#### Data Structures: Utilizes linked lists to manage elections, candidates, and voters dynamically.
-#### Colorful Console UI: Implements ANSI escape codes to create a visually appealing and interactive console interface.
-#### File Handling: Includes functionality to save candidate and election results to text files for record-keeping.
-#### Authentication: Provides a secure login system for administrators to manage and oversee elections.
+##### Data Structures: 
+Utilizes linked lists to manage elections, candidates, and voters dynamically.
+
+##### Colorful Console UI: 
+Implements ANSI escape codes to create a visually appealing and interactive console interface.
+
+##### File Handling:
+Includes functionality to save candidate and election results to text files for record-keeping.
+
+##### Authentication: 
+Provides a secure login system for administrators to manage and oversee elections.
 
 This project not only showcases my coding skills but also my ability to handle complex systems and integrate various functionalities seamlessly. If you're interested in more technical details or have any questions, feel free to reach out!
